@@ -1,6 +1,8 @@
-## Olá 👋 Boas vindas ao meu perfil 🌱
+## Olá 👋 Boas vindas ao meu perfil 🌱 
 ## me chamo Ana
 ## estou estudando na Alura, é aqui onde irei organizar meus projetos. <3
+## ![](https://images.app.goo.gl/LqkMDb5uVyAPW1tZ6)
+
 <!--
 **analemanabarbieri/analemanabarbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
