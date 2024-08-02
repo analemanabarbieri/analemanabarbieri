@@ -1,4 +1,4 @@
-## Olá 👋 
+## Olá 👋 Boas vindas ao meu perfil 🌱
 ## me chamo Ana
 ## estou estudando na Alura, é aqui onde irei organizar meus projetos. <3
 <!--
