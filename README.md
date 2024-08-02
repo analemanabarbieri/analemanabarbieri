@@ -1,6 +1,6 @@
 ## Olá 👋 
 ## me chamo Ana
-
+## estou estudando na Alura, é aqui onde irei organizar meus projetos. <3
 <!--
 **analemanabarbieri/analemanabarbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
